@@ -4,7 +4,7 @@ Super Rusty
 
 ## Description
 
-This is a simple game inspired in Nitendo's Super Mario. 
+This is a simple game inspired in Nintendo's Super Mario. 
 It was developed using Monogame Framework and C# for an assignment at my first year of university.
 
 ## Getting Started
